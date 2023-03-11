@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-U can visit the live website on https://phonestoreo0.netlify.app
+You can visit the live website on https://phonestoreo0.netlify.app
 
 ## Available Scripts
 
